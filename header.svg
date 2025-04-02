@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Gradient background with wave effect -->
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3a0088" />
+      <stop offset="100%" stop-color="#6f00ff" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with wave effect -->
+  <path d="M0,0 L800,0 L800,220 C700,280 600,240 500,260 C400,280 300,240 200,250 C100,260 50,280 0,250 L0,0 Z" fill="url(#headerGradient)" />
+  
+  <!-- Header text -->
+  <text x="400" y="120" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#ffffff" text-anchor="middle">MELEK BEJAOUI</text>
+  
+  <!-- Description text -->
+  <text x="400" y="180" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">Cloud &amp; DevOps Engineer</text>
+  
+  <!-- Animation effect (static in SVG but gives visual interest) -->
+  <g opacity="0.2">
+    <circle cx="100" cy="150" r="20" fill="#ffffff" />
+    <circle cx="700" cy="100" r="15" fill="#ffffff" />
+    <circle cx="200" cy="80" r="10" fill="#ffffff" />
+    <circle cx="600" cy="180" r="12" fill="#ffffff" />
+  </g>
+</svg>
