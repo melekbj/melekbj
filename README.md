@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6f00ff&height=300&section=header&text=MELEK%20BEJAOUI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="./header.svg" width="100%"/>
 </div>
-
-# <div align="center">💻 CLOUD &amp; DEVOPS ENGINEER</div>
 
 <div align="center">
   
