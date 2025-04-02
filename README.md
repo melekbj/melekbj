@@ -2,26 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6f00ff&height=300&section=header&text=MELEK%20BEJAOUI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
-# <div align="center">💻 CLOUD & DEVOPS ENGINEER</div>
+# <div align="center">💻 CLOUD &amp; DEVOPS ENGINEER</div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melek-bejaoui/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melek.bejaoui@esprit.tn)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://melekbj.github.io)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melekbj)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/melek-bejaoui/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:melek.bejaoui@esprit.tn)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&amp;logo=googleearth&amp;logoColor=white)](https://melekbj.github.io)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/melekbj)
   
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melekbj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=melekbj&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="profile views" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melekbj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melekbj&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=melekbj&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melekbj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" width="49%" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 ## <div align="center">🚀 ABOUT ME</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Software+Developer;Infrastructure+Automation+Specialist;Kubernetes+%26+Docker+Expert;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cloud+%26+DevOps+Engineer;Software+Developer;Infrastructure+Automation+Specialist;Kubernetes+%26+Docker+Expert;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@ Software Engineer focused on building the future of infrastructure. I specialize
 class CloudDevOpsEngineer:
     def __init__(self):
         self.name = "Melek Bejaoui"
-        self.role = "Cloud & DevOps Engineer"
+        self.role = "Cloud &amp; DevOps Engineer"
         self.language_spoken = ["en_US", "fr_FR", "ar_TN"]
         self.code = ["Python", "Go", "JavaScript", "Bash", "HCL"]
         self.tools = ["Kubernetes", "Docker", "Terraform", "AWS", "CI/CD"]
@@ -59,7 +59,7 @@ me.say_hi()
 ## <div align="center">⚡ TECH STACK</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,python,github,js,azure,jenkins,grafana,ansible,go,prometheus,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,python,github,js,azure,jenkins,grafana,ansible,go,prometheus,linux&amp;theme=dark&amp;perline=7" />
 </div>
 
 <div align="center">
@@ -72,10 +72,10 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/melekbj/PFE_TT_ScoreHub_Frontend">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melekbj&repo=PFE_TT_ScoreHub_Frontend&theme=react&bg_color=0D1117&hide_border=true" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melekbj&amp;repo=PFE_TT_ScoreHub_Frontend&amp;theme=react&amp;bg_color=0D1117&amp;hide_border=true" />
   </a>
   <a href="https://github.com/melekbj/DEVOPS_PROJECT">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melekbj&repo=DEVOPS_PROJECT&theme=react&bg_color=0D1117&hide_border=true" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melekbj&amp;repo=DEVOPS_PROJECT&amp;theme=react&amp;bg_color=0D1117&amp;hide_border=true" />
   </a>
 </div>
 
@@ -104,11 +104,11 @@ me.say_hi()
 ## <div align="center">📊 CODING ACTIVITY</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melekbj&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=melekbj&amp;theme=react-dark&amp;bg_color=0D1117&amp;hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melekbj&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melekbj&amp;theme=react&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact&amp;bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
@@ -117,10 +117,10 @@ me.say_hi()
 
 <div align="center">
   
-  ![ServiceMesh](https://img.shields.io/badge/Service_Mesh-Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-  ![FinOps](https://img.shields.io/badge/FinOps-Cloud_Cost_Optimization-00A4EF?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![ML Ops](https://img.shields.io/badge/ML_Ops-Infrastructure-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-Programming-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![ServiceMesh](https://img.shields.io/badge/Service_Mesh-Istio-466BB0?style=for-the-badge&amp;logo=istio&amp;logoColor=white)
+  ![FinOps](https://img.shields.io/badge/FinOps-Cloud_Cost_Optimization-00A4EF?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
+  ![ML Ops](https://img.shields.io/badge/ML_Ops-Infrastructure-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-Programming-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)
   
 </div>
 
@@ -137,14 +137,14 @@ me.say_hi()
   <p>I'm always interested in collaborating on innovative projects and connecting with fellow tech enthusiasts.</p>
   
   <a href="mailto:melek.bejaoui@esprit.tn">
-    <img src="https://img.shields.io/badge/Send%20Me%20A%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send%20Me%20A%20Message-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6f00ff&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3a0088,100:6f00ff&amp;height=120&amp;section=footer" width="100%"/>
 </div>
 
 <div align="center">
