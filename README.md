@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6f00ff&height=300&section=header&text=MELEK%20BEN%20JEMIA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0088,100:6f00ff&height=300&section=header&text=MELEK%20BEJAOUI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 # <div align="center">💻 CLOUD & DEVOPS ENGINEER</div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melekbejaoui/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melek-bejaoui/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melek.bejaoui@esprit.tn)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://melekbejaoui-portfolio-eta.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://melekbj.github.io)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melekbj)
   
 </div>
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZiMjkxdjZtamJ1bjlzcXNoOGVuNDI1emhseGxsZTB3MnpqMmN2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
 Software Engineer focused on building the future of infrastructure. I specialize in **Cloud Architecture** and **DevOps practices** while maintaining a strong foundation in software development. I create automated, scalable, and resilient systems that bridge the gap between development and operations.
@@ -41,7 +41,7 @@ Software Engineer focused on building the future of infrastructure. I specialize
 ```python
 class CloudDevOpsEngineer:
     def __init__(self):
-        self.name = "Melek Ben Jemia"
+        self.name = "Melek Bejaoui"
         self.role = "Cloud & DevOps Engineer"
         self.language_spoken = ["en_US", "fr_FR", "ar_TN"]
         self.code = ["Python", "Go", "JavaScript", "Bash", "HCL"]
@@ -63,9 +63,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="150" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
 </div>
 
 ---
@@ -73,28 +71,33 @@ me.say_hi()
 ## <div align="center">🏆 PROJECTS</div>
 
 <div align="center">
-  <a href="your-repo-link">
+  <a href="https://github.com/melekbj/PFE_TT_ScoreHub_Frontend">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melekbj&repo=PFE_TT_ScoreHub_Frontend&theme=react&bg_color=0D1117&hide_border=true" />
   </a>
-  <a href="your-repo-link">
+  <a href="https://github.com/melekbj/DEVOPS_PROJECT">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=melekbj&repo=DEVOPS_PROJECT&theme=react&bg_color=0D1117&hide_border=true" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg" width="30" height="30" />
+  <strong>Featured Projects:</strong>
 </div>
 
-### Featured Projects:
-
-- **🔹 Cloud-Native CI/CD Pipeline**
-  <br>Automated infrastructure provisioning and application deployment using Terraform, Kubernetes, and ArgoCD. Reduced deployment time by 80%.
+- **🔹 ScoreHub Frontend (PFE_TT_ScoreHub_Frontend)**
+  <br>A modern web application for tracking scores and statistics built using React with a focus on responsive design and real-time updates.
   
-- **🔹 Microservices Observability Platform**
-  <br>Comprehensive monitoring solution using Prometheus, Grafana, and ELK stack providing real-time insights into system performance.
+- **🔹 DevOps Pipeline Implementation (DEVOPS_PROJECT)**
+  <br>End-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes for automating build, test, and deployment processes.
   
 - **🔹 Multi-Cloud Infrastructure Framework**
   <br>Modular IaC solution ensuring consistent infrastructure provisioning across AWS, Azure, and GCP with built-in compliance checks.
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 ---
 
@@ -130,10 +133,10 @@ me.say_hi()
 ## <div align="center">📫 CONNECT WITH ME</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-3e3d-4f8b-b620-5b4c996253d7.gif" width="300" />
   <p>I'm always interested in collaborating on innovative projects and connecting with fellow tech enthusiasts.</p>
   
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:melek.bejaoui@esprit.tn">
     <img src="https://img.shields.io/badge/Send%20Me%20A%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
